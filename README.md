@@ -3,7 +3,7 @@ Investigating the area of the Mandelbrot set using Monte Carlo integration metho
 
 # Also some nice visuals :)
 
-The full mandelbrot set, -2 < x < 1 and -1.2 < y < -1.2
+Full overview of the mandelbrot set, -2 < x < 1 and -1.2 < y < -1.2
 ![alt text](Images/overview.png)
 
 The Seahorse,  -0.751 < x < -0.745 and -0.1 < y < -0.092
