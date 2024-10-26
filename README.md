@@ -6,5 +6,12 @@ Investigating the area of the Mandelbrot set using Monte Carlo integration metho
 The full mandelbrot set
 ![alt text](Images/overview.png)
 
+The Seahorse,  -0.751 < x < -0.745 and -0.1 < y < -0.092
+![alt text](Images/seahorse.png)
 
+0.1375 < x < 0.1625 and -0.6275 < y < -0.6025
+![alt text](Images/fancy.png)
+
+-1.3 < x < -1.05 and -0.45 < y < -0.2
+![alt text](Images/bolt.png)
 
