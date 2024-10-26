@@ -3,5 +3,8 @@ Investigating the area of the Mandelbrot set using Monte Carlo integration metho
 
 # Also some nice visuals :)
 
+The full mandelbrot set
+![alt text](Images/overview.png)
+
 
 
