@@ -1,7 +1,7 @@
 # Estimating the Area of the Mandelbrot Set
 Investigating the area of the Mandelbrot set using Monte Carlo integration methods by analysing sampled complex numbers generated using various sampling methods and iterating them through the function f_c(c) = z^2 + c.
 
-# Also some nice visuals :)
+# Some nice visuals :)
 
 Full overview of the mandelbrot set, -2 < x < 1 and -1.2 < y < -1.2
 ![alt text](Images/overview.png)
